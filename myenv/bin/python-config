@@ -1,4 +1,4 @@
-#!/Users/tomvictor/Desktop/django/myenv/bin/python
+#!/Users/tomvictor/GitHub/django-tutorial/myenv/bin/python
 
 import sys
 import getopt
